@@ -3,6 +3,8 @@
 
 ## Содержание
 
+- [Полезные телефоны](#полезные-телефоны)
+
 - [Где купить](#где-купить)
 - [Земляные работы](#земляные-работы)
 - [Комплексные бригады](#комплексные-бригады)
@@ -14,6 +16,12 @@
 - [Стяжка, штукатурка](#стяжка-штукатурка)
 - [Электрика](#электрика)
 
+## Полезные телефоны
+
+- Газ 388-81-04
+- Охрана +7-913-387-25-11
+- Правление 330-13-11
+
 
 ## Где купить
 
@@ -21,20 +29,25 @@
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), вертикальная планировка +7-913-917-56-64
 
 ## Комплексные бригады
-- РемСтрой, Алексей Береговой +7-913-466-84-50
-- Сергей, +7-913-763-16-00
+- [Кулин Антон](https://github.com/contfedorov/sigma-workers/issues/13), +7-913-775-55-05
+- [РемСтрой](https://github.com/contfedorov/sigma-workers/issues/10), Алексей Береговой +7-913-466-84-50
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/11), +7-913-763-16-00
 
 ## Мебель
+- [Константин](https://github.com/contfedorov/sigma-workers/issues/15), +7-952-910-60-18
+- [Максим](https://github.com/contfedorov/sigma-workers/issues/14), +7-913-477-32-23
+- [Павел](https://github.com/contfedorov/sigma-workers/issues/16), кухни +7-913-916-44-15
 
 ## Металлоконструкции
 - [Дильшат](https://github.com/contfedorov/sigma-workers/issues/1) +7-913-763-75-47
 
 ## Общестроительные работы
-- [Рустам](https://github.com/contfedorov/sigma-workers/issues/7) +7-952-939-70-70
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), кирпичная кладка +7-913-895-96-33 
+- [Рустам](https://github.com/contfedorov/sigma-workers/issues/7) +7-952-939-70-70
 
 ## Отопление, вода, канализация
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), внутренняя инженерия +7-983-002-93-00
+- [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
 
 ## Прочее
 - [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), камины/дымоходы +7-913-921-31-24
@@ -44,4 +57,5 @@
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/3) +7-983-510-17-40
 
 ## Электрика
+- [Иван](https://github.com/contfedorov/sigma-workers/issues/9) +7-913-951-59-81
 
