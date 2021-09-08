@@ -15,5 +15,33 @@
 - [Электрика](#электрика)
 
 
+## Где купить
 
+## Земляные работы
+- [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), вертикальная планировка +7-913-917-56-64
+
+## Комплексные бригады
+- РемСтрой, Алексей Береговой +7-913-466-84-50
+- Сергей, +7-913-763-16-00
+
+## Мебель
+
+## Металлоконструкции
+- [Дильшат](https://github.com/contfedorov/sigma-workers/issues/1) +7-913-763-75-47
+
+## Общестроительные работы
+- [Рустам](https://github.com/contfedorov/sigma-workers/issues/7) +7-952-939-70-70
+- [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), кирпичная кладка +7-913-895-96-33 
+
+## Отопление, вода, канализация
+- [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), внутренняя инженерия +7-983-002-93-00
+
+## Прочее
+- [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), камины/дымоходы +7-913-921-31-24
+
+## Стяжка, штукатурка
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/2) +7-983-051-05-77
+- [Михаил](https://github.com/contfedorov/sigma-workers/issues/3) +7-983-510-17-40
+
+## Электрика
 
