@@ -12,6 +12,7 @@
 - [Металлоконструкции](#металлоконструкции)
 - [Общестроительные работы](#общестроительные-работы)
 - [Отопление, вода, канализация](#отопление-вода-канализация)
+- [Охрана](#охрана)
 - [Прочее](#прочее)
 - [Стяжка, штукатурка](#стяжка-штукатурка)
 - [Чистовая отделка](#чистовая-отделка)
@@ -49,7 +50,11 @@
 
 ## Отопление, вода, канализация
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), внутренняя инженерия +7-983-002-93-00
+- [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел +7 (383) 312-13-16 zakaz@gk-dst.ru
 - [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
+
+## Охрана
+- [Неоком](https://github.com/contfedorov/sigma-workers/issues/21), Петр +7 913 913-64-51
 
 ## Прочее
 - [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), камины/дымоходы +7-913-921-31-24
@@ -62,5 +67,7 @@
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18) +7-913-486-49-66
 
 ## Электрика
+- [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
 - [Иван](https://github.com/contfedorov/sigma-workers/issues/9) +7-913-951-59-81
+
 
