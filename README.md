@@ -29,6 +29,7 @@
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), вертикальная планировка +7-913-917-56-64
 
 ## Комплексные бригады
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/17), +7-913-919-81-57
 - [Кулин Антон](https://github.com/contfedorov/sigma-workers/issues/13), +7-913-775-55-05
 - [РемСтрой](https://github.com/contfedorov/sigma-workers/issues/10), Алексей Береговой +7-913-466-84-50
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/11), +7-913-763-16-00
