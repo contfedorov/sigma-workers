@@ -28,7 +28,7 @@
 ## Где купить
 
 ## Земляные работы
-- [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), вертикальная планировка +7-913-917-56-64
+- [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
 
 ## Комплексные бригады
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/17), +7-913-919-81-57
@@ -39,35 +39,38 @@
 ## Мебель
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/15), +7-952-910-60-18
 - [Максим](https://github.com/contfedorov/sigma-workers/issues/14), +7-913-477-32-23
-- [Павел](https://github.com/contfedorov/sigma-workers/issues/16), кухни +7-913-916-44-15
+- [Павел](https://github.com/contfedorov/sigma-workers/issues/16), +7-913-916-44-15 (кухни)
 
 ## Металлоконструкции
-- [Дильшат](https://github.com/contfedorov/sigma-workers/issues/1) +7-913-763-75-47
+- [Дильшат](https://github.com/contfedorov/sigma-workers/issues/1), +7-913-763-75-47
 
 ## Общестроительные работы
-- [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), кирпичная кладка +7-913-895-96-33 
-- [Рустам](https://github.com/contfedorov/sigma-workers/issues/7) +7-952-939-70-70
+- [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичная кладка)
+- [Рустам](https://github.com/contfedorov/sigma-workers/issues/7), +7-952-939-70-70
 
 ## Отопление, вода, канализация
-- [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), внутренняя инженерия +7-983-002-93-00
-- [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел +7 (383) 312-13-16 zakaz@gk-dst.ru
+- [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), +7-983-002-93-00
+- [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел 312-13-16 zakaz@gk-dst.ru
 - [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
 
 ## Охрана
-- [Неоком](https://github.com/contfedorov/sigma-workers/issues/21), Петр +7 913 913-64-51
+- [Неоком](https://github.com/contfedorov/sigma-workers/issues/21), Петр +7-913-913-64-51
+- [Подразделение Д](https://github.com/contfedorov/sigma-workers/issues/22), Иван Артемьев +7-905-932-99-77
 
 ## Прочее
-- [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), камины/дымоходы +7-913-921-31-24
+- [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24 (камины, дымоходы)
+- [Зора](https://github.com/contfedorov/sigma-workers/issues/24), +7-923-135-11-93 (водосточные системы)
 
 ## Стяжка, штукатурка
-- [Александр](https://github.com/contfedorov/sigma-workers/issues/2) +7-983-051-05-77
-- [Михаил](https://github.com/contfedorov/sigma-workers/issues/3) +7-983-510-17-40
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77
+- [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40
 
 ## Чистовая отделка
-- [Александр](https://github.com/contfedorov/sigma-workers/issues/18) +7-913-486-49-66
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
 
 ## Электрика
 - [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
-- [Иван](https://github.com/contfedorov/sigma-workers/issues/9) +7-913-951-59-81
+- [Владимир Шутов](https://github.com/contfedorov/sigma-workers/issues/23), +7-913-953-90-12 
+- [Иван](https://github.com/contfedorov/sigma-workers/issues/9), +7-913-951-59-81
 
 
