@@ -40,6 +40,7 @@
 - [Партнер](https://github.com/contfedorov/sigma-workers/issues/29), https://partnertorg.com/ (строительный гипермаркет)
 - [Приятного ремонта!](https://github.com/contfedorov/sigma-workers/issues/28), http://p.remonta.tilda.ws/ (отделочные материалы)
 - [Сатурн](https://github.com/contfedorov/sigma-workers/issues/26), https://nsk.saturn.net/ (гипермаркет стройматериалов)
+- [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
 
 ## Земляные работы
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
