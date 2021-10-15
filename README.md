@@ -43,6 +43,7 @@
 - [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
 
 ## Земляные работы
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
 
 ## Комплексные бригады
@@ -61,6 +62,7 @@
 
 ## Общестроительные работы
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичная кладка)
+- ⚠️ [Наиб](https://github.com/contfedorov/sigma-workers/issues/40), +7-983-321-31-61 (отмостки)
 - [Рустам](https://github.com/contfedorov/sigma-workers/issues/7), +7-952-939-70-70
 
 ## Отопление, вода, канализация
@@ -74,8 +76,11 @@
 
 ## Прочее
 - [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24 (камины, дымоходы)
+- [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16 (дороги, черный грунт)
 - [Зора](https://github.com/contfedorov/sigma-workers/issues/24), +7-923-135-11-93 (водосточные системы)
 - ⚠️ [Мухтор](https://github.com/contfedorov/sigma-workers/issues/25), +7-951-386-32-74 (оклеечная гидроизоляция фундамента)
+- [Олег](https://github.com/contfedorov/sigma-workers/issues/36), +7-952-903-03-05 (алмазное бурение)
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/37), +7-983-510-74-65 (алмазное бурение)
 
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77
