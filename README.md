@@ -17,6 +17,7 @@
 - [Мебель](#мебель)
 - [Металлоконструкции](#металлоконструкции)
 - [Общестроительные работы](#общестроительные-работы)
+- [Окна](#окна)
 - [Отопление, вода, канализация](#отопление-вода-канализация)
 - [Охрана](#охрана)
 - [Прочее](#прочее)
@@ -62,6 +63,10 @@
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичная кладка)
 - ⚠️ [Наиб](https://github.com/contfedorov/sigma-workers/issues/40), +7-983-321-31-61 (отмостки)
 - [Рустам](https://github.com/contfedorov/sigma-workers/issues/7), +7-952-939-70-70
+
+## Окна
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/52), +7-913-920-28-08
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/53), +7-906-995-23-84
 
 ## Отопление, вода, канализация
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), +7-983-002-93-00
