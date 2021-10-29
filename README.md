@@ -9,7 +9,7 @@
 
 - [Полезные телефоны](#полезные-телефоны)
 
-- [Где купить](#где-купить)
+- [Где купить](where-to-buy.md)
 - [Земляные работы](#земляные-работы)
 - [Комплексные бригады](#комплексные-бригады)
 - [Мебель](#мебель)
@@ -27,20 +27,6 @@
 - Газ 388-81-04
 - Охрана +7-913-387-25-11
 - Правление 330-13-11
-
-
-## Где купить
-
-- [Grand Ceramica](https://github.com/contfedorov/sigma-workers/issues/33), https://grand-ceramica.com/ (кафель, плитка, сантехника)
-- [Большая Медведица](https://github.com/contfedorov/sigma-workers/issues/30), https://www.medvediza.ru/ (торгово-выставочный комплекс)
-- [Ванная комната](https://github.com/contfedorov/sigma-workers/issues/32), https://ваннаякомната.su/ (сантехника и отделочные материалы)
-- [Калейдоскоп](https://github.com/contfedorov/sigma-workers/issues/31), https://www.kaleidockop.ru/ (торгово-выставочный комплекс)
-- [Колорлон](https://github.com/contfedorov/sigma-workers/issues/34), https://colorlon.ru/ (материалы для строительства и ремонта)
-- [Новострой](https://github.com/contfedorov/sigma-workers/issues/27), https://nsk-stroy.com/ (материалы для строительства и ремонта)
-- [Партнер](https://github.com/contfedorov/sigma-workers/issues/29), https://partnertorg.com/ (строительный гипермаркет)
-- [Приятного ремонта!](https://github.com/contfedorov/sigma-workers/issues/28), http://p.remonta.tilda.ws/ (отделочные материалы)
-- [Сатурн](https://github.com/contfedorov/sigma-workers/issues/26), https://nsk.saturn.net/ (гипермаркет стройматериалов)
-- [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
 
 ## Земляные работы
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
