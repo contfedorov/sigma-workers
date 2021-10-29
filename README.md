@@ -12,6 +12,7 @@
 - [Вывоз мусора](#вывоз-мусора)
 - [Где купить](where-to-buy.md)
 - [Земляные работы](#земляные-работы)
+- [Камины, дымоходы](#камины-дымоходы)
 - [Комплексные бригады](#комплексные-бригады)
 - [Мебель](#мебель)
 - [Металлоконструкции](#металлоконструкции)
@@ -37,6 +38,11 @@
 ## Земляные работы
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
+
+## Камины, дымоходы
+- [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24 (камины, дымоходы)
+- [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24 (камины, дымоходы)
+- [Антон](https://github.com/contfedorov/sigma-workers/issues/50), +7-953-864-67-77 (камины, дымоходы)
 
 ## Комплексные бригады
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/17), +7-913-919-81-57
@@ -66,8 +72,7 @@
 - [Неоком](https://github.com/contfedorov/sigma-workers/issues/21), Петр +7-913-913-64-51
 - [Подразделение Д](https://github.com/contfedorov/sigma-workers/issues/22), Иван Артемьев +7-905-932-99-77
 
-## Прочее
-- [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24 (камины, дымоходы)
+## Прочее 
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16 (дороги, черный грунт)
 - [Зора](https://github.com/contfedorov/sigma-workers/issues/24), +7-923-135-11-93 (водосточные системы)
 - ⚠️ [Мухтор](https://github.com/contfedorov/sigma-workers/issues/25), +7-951-386-32-74 (оклеечная гидроизоляция фундамента)
