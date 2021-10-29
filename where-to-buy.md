@@ -7,6 +7,7 @@
 - [Строительные гипермаркеты и ТВК](#строительные-гипермаркеты-и-твк)
 - [Кафель, плитка, сантехника](#кафель-плитка-сантехника)
 - [Прочее](#прочее)
+- [Электрика](#электрика)
 
 ## Строительные гипермаркеты и ТВК
 
@@ -26,4 +27,12 @@
 
 - [Новострой](https://github.com/contfedorov/sigma-workers/issues/27), https://nsk-stroy.com/ (материалы для строительства и ремонта)
 - [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
+
+## Электрика
+
+- [Академ Кабель](https://github.com/contfedorov/sigma-workers/issues/44), 363-57-00, 363-58-00, https://akademkab.ru/
+- [Минимакс](https://github.com/contfedorov/sigma-workers/issues/47), https://www.minimaks.ru/
+- [Русский Свет](https://github.com/contfedorov/sigma-workers/issues/45), https://rs24.ru/
+- [СумракОФФ](https://github.com/contfedorov/sigma-workers/issues/48), https://www.sumrakoff.ru
+- [ЭТМ](https://github.com/contfedorov/sigma-workers/issues/46), https://www.etm.ru/
 
