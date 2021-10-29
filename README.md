@@ -41,9 +41,9 @@
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
 
 ## Камины, дымоходы
-- [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24 (камины, дымоходы)
-- [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24 (камины, дымоходы)
-- [Антон](https://github.com/contfedorov/sigma-workers/issues/50), +7-953-864-67-77 (камины, дымоходы)
+- [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24
+- [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24
+- [Антон](https://github.com/contfedorov/sigma-workers/issues/50), +7-953-864-67-77
 
 ## Комплексные бригады
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/17), +7-913-919-81-57
