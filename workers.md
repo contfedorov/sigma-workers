@@ -23,9 +23,9 @@
 - [Электрика](#электрика)
 
 ## Вывоз мусора
-- [Академ переезд](https://github.com/contfedorov/sigma-workers/issues/42), ?
+- [Академсамосвал](https://github.com/contfedorov/sigma-workers/issues/55), +7-913-208-50-17
+- [Академ переезд](https://github.com/contfedorov/sigma-workers/issues/42), +7-913-899-70-00
 - [Грузим с умом](https://github.com/contfedorov/sigma-workers/issues/41), +7-913-944-36-31, 331-00-80
-- [Каримов Юрий Вильевич](https://github.com/contfedorov/sigma-workers/issues/43), +7-913-910-45-31
 
 ## Земляные работы
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
