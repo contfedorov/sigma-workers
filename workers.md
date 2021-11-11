@@ -59,6 +59,7 @@
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/53), +7-906-995-23-84
 
 ## Отопление, вода, канализация
+- [Виктор](https://github.com/contfedorov/sigma-workers/issues/56), +7-913-747-17-12
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), +7-983-002-93-00
 - [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел 312-13-16 zakaz@gk-dst.ru
 - [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
