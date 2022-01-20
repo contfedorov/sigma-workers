@@ -11,3 +11,8 @@
 
 - [Руководство по эксплуатации](assets/lynx-condens-user-manual-722847.pdf)
 - [Руководство по установке и техническому обслуживанию](assets/lynxcondens-install-manual-722846.pdf)
+
+## Отопительные котлы Viessman Vitopend 100-W
+
+- [Руководство по эксплуатации](assets/5791983_01_2017_BA_Vitopend_A1HB_A1JB.pdf)
+- [Руководство по установке и техническому обслуживанию](assets/5791982_04_2017_MASA_Vitopend_A1HB_A1JB.pdf)
