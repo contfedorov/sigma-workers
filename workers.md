@@ -100,5 +100,6 @@
 - [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
 - [Владимир Шутов](https://github.com/contfedorov/sigma-workers/issues/23), +7-913-953-90-12
 - [Иван](https://github.com/contfedorov/sigma-workers/issues/9), +7-913-951-59-81
+- [Константин](https://github.com/contfedorov/sigma-workers/issues/62), +7-913-720-10-68
 
 
