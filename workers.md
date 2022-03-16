@@ -91,7 +91,7 @@
 
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77
-- [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40
+- [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40 (полусухая стяжка, бетонные работы)
 
 ## Чистовая отделка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
