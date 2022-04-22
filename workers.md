@@ -95,6 +95,7 @@
 
 ## Чистовая отделка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
+- [Древодар](https://github.com/contfedorov/sigma-workers/issues/63), Александр +7-953-772-22-42 (чистовая отделка лестниц)
 
 ## Электрика
 - [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
