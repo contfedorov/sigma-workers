@@ -67,6 +67,7 @@
 - [Рустам](https://github.com/contfedorov/sigma-workers/issues/7), +7-952-939-70-70
 
 ## Окна
+- [Академия окон](https://github.com/contfedorov/sigma-workers/issues/64), +7-913-203-32-22 (окна, москитные сетки)
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/52), +7-913-920-28-08
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/53), +7-906-995-23-84
 
