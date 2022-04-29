@@ -85,6 +85,7 @@
 - [Дом и Сад](https://github.com/contfedorov/sigma-workers/issues/51), +7-913-917-00-97 (благоустройство и озеленение)
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16 (дороги, черный грунт)
 - [Зора](https://github.com/contfedorov/sigma-workers/issues/24), +7-923-135-11-93 (водосточные системы)
+- [Михаил](https://github.com/contfedorov/sigma-workers/issues/66), +7-951-363-33-33 (крыша, водосточные системы)
 - ⚠️ [Мухтор](https://github.com/contfedorov/sigma-workers/issues/25), +7-951-386-32-74 (оклеечная гидроизоляция фундамента)
 - [Николай](https://github.com/contfedorov/sigma-workers/issues/65), +7-913-924-13-23 (черный грунт, земля, перегной)
 - [Олег](https://github.com/contfedorov/sigma-workers/issues/36), +7-952-903-03-05 (алмазное бурение)
