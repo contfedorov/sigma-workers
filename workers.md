@@ -59,8 +59,6 @@
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/59), +7-913-930-30-16
 - [Нина/Евгений](https://github.com/contfedorov/sigma-workers/issues/57), +7-913-941-83-42
 
-
-
 ## Общестроительные работы
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичная кладка)
 - ⚠️ [Наиб](https://github.com/contfedorov/sigma-workers/issues/40), +7-983-321-31-61 (отмостки)
@@ -69,7 +67,9 @@
 ## Окна
 - [Академия окон](https://github.com/contfedorov/sigma-workers/issues/64), +7-913-203-32-22 (окна, москитные сетки)
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/52), +7-913-920-28-08
-- [Алексей](https://github.com/contfedorov/sigma-workers/issues/53), +7-906-995-23-84
+- [Мироград](https://github.com/contfedorov/sigma-workers/issues/53), Алексей, +7-906-995-23-84
+- [Профиль-Реконструкция](https://github.com/contfedorov/sigma-workers/issues/69), Игорь, +7-913-985-44-33
+- [Руслан](https://github.com/contfedorov/sigma-workers/issues/70), +7-913-207-98-78
 
 ## Отопление, вода, канализация
 - [Виктор](https://github.com/contfedorov/sigma-workers/issues/56), +7-913-747-17-12
@@ -82,15 +82,20 @@
 - [Подразделение Д](https://github.com/contfedorov/sigma-workers/issues/22), Иван Артемьев +7-905-932-99-77
 
 ## Прочее
+- [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74 (спецтехника, уборка снега/мусора, сыпучие материалы)
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
 - [Дом и Сад](https://github.com/contfedorov/sigma-workers/issues/51), +7-913-917-00-97 (благоустройство и озеленение)
+- [Евгений](https://github.com/contfedorov/sigma-workers/issues/67), +7-952-908-45-11 (кондиционеры)
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16 (дороги, черный грунт)
 - [Зора](https://github.com/contfedorov/sigma-workers/issues/24), +7-923-135-11-93 (водосточные системы)
+- [Карьер Борок](https://github.com/contfedorov/sigma-workers/issues/54), 363‒92‒41 (щебень, песок)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/66), +7-951-363-33-33 (крыша, водосточные системы)
 - ⚠️ [Мухтор](https://github.com/contfedorov/sigma-workers/issues/25), +7-951-386-32-74 (оклеечная гидроизоляция фундамента)
 - [Николай](https://github.com/contfedorov/sigma-workers/issues/65), +7-913-924-13-23 (черный грунт, земля, перегной)
 - [Олег](https://github.com/contfedorov/sigma-workers/issues/36), +7-952-903-03-05 (алмазное бурение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/37), +7-983-510-74-65 (алмазное бурение)
-- [Карьер Борок](https://github.com/contfedorov/sigma-workers/issues/54), 363‒92‒41 (щебень, песок)
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/68), +7-953-780-12-09 (кондиционеры)
+
 
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77
