@@ -32,8 +32,12 @@
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/60), +7-913-920-42-93
 
 ## Земляные работы
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/73), +7-913-959-99-89 (трактор с фрезой)
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/76), +7-913-011-44-33  (трактор с фрезой)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
+- [Трактор](https://github.com/contfedorov/sigma-workers/issues/75), +7-913-774-06-82
 
 ## Камины, дымоходы
 - [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24
@@ -83,7 +87,7 @@
 
 ## Прочее
 - [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74 (спецтехника, уборка снега/мусора, сыпучие материалы)
-- [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
+- [Артём](https://github.com/contfedorov/sigma-workers/issues/77), +7-903-906-91-38 (бочки)
 - [Дом и Сад](https://github.com/contfedorov/sigma-workers/issues/51), +7-913-917-00-97 (благоустройство и озеленение)
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/67), +7-952-908-45-11 (кондиционеры)
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16 (дороги, черный грунт)
@@ -107,6 +111,7 @@
 
 ## Электрика
 - [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
+- [Валерий](https://github.com/contfedorov/sigma-workers/issues/74), +7-913-893-03-06
 - [Владимир Шутов](https://github.com/contfedorov/sigma-workers/issues/23), +7-913-953-90-12
 - [Иван](https://github.com/contfedorov/sigma-workers/issues/9), +7-913-951-59-81
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/62), +7-913-720-10-68
