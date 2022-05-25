@@ -62,6 +62,7 @@
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/58), +7-913-475-04-39
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/59), +7-913-930-30-16
 - [Нина/Евгений](https://github.com/contfedorov/sigma-workers/issues/57), +7-913-941-83-42
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/80), +7-913-751-54-77
 
 ## Общестроительные работы
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичная кладка)
@@ -93,6 +94,7 @@
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16 (дороги, черный грунт)
 - [Зора](https://github.com/contfedorov/sigma-workers/issues/24), +7-923-135-11-93 (водосточные системы)
 - [Карьер Борок](https://github.com/contfedorov/sigma-workers/issues/54), 363‒92‒41 (щебень, песок)
+- [Константин](https://github.com/contfedorov/sigma-workers/issues/78), +7-913-917-61-69 (алмазное бурение)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/66), +7-951-363-33-33 (крыша, водосточные системы)
 - ⚠️ [Мухтор](https://github.com/contfedorov/sigma-workers/issues/25), +7-951-386-32-74 (оклеечная гидроизоляция фундамента)
 - [Николай](https://github.com/contfedorov/sigma-workers/issues/65), +7-913-924-13-23 (черный грунт, земля, перегной)
@@ -104,6 +106,7 @@
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40 (полусухая стяжка, бетонные работы)
+- [Роман](https://github.com/contfedorov/sigma-workers/issues/79), +7-962-828-40-48 (полусухая стяжка)
 
 ## Чистовая отделка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
