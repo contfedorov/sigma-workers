@@ -89,6 +89,7 @@
 ## Прочее
 - [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74 (спецтехника, уборка снега/мусора, сыпучие материалы)
 - [Артём](https://github.com/contfedorov/sigma-workers/issues/77), +7-903-906-91-38 (бочки)
+- [Водовоз](https://github.com/contfedorov/sigma-workers/issues/82), +7-923-709-07-48
 - [Грунт](https://github.com/contfedorov/sigma-workers/issues/81), +7-952-922-12-15 (чёрный грунт)
 - [Дом и Сад](https://github.com/contfedorov/sigma-workers/issues/51), +7-913-917-00-97 (благоустройство и озеленение)
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/67), +7-952-908-45-11 (кондиционеры)
