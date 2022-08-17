@@ -51,6 +51,7 @@
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/11), +7-913-763-16-00
 
 ## Мебель
+- [Sweet Home](https://github.com/contfedorov/sigma-workers/issues/87), Валерий, +7-913-710-77-98
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/15), +7-952-910-60-18
 - [Максим](https://github.com/contfedorov/sigma-workers/issues/14), +7-913-477-32-23
 - [Павел](https://github.com/contfedorov/sigma-workers/issues/16), +7-913-916-44-15 (кухни)
@@ -88,6 +89,7 @@
 
 ## Прочее
 - [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74 (спецтехника, уборка снега/мусора, сыпучие материалы)
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/89), +7-913-399-80-53 (межкомнатные двери)
 - [Артём](https://github.com/contfedorov/sigma-workers/issues/77), +7-903-906-91-38 (бочки)
 - [Водовоз](https://github.com/contfedorov/sigma-workers/issues/82), +7-923-709-07-48
 - [Грунт](https://github.com/contfedorov/sigma-workers/issues/81), +7-952-922-12-15 (чёрный грунт)
@@ -103,6 +105,7 @@
 - [Олег](https://github.com/contfedorov/sigma-workers/issues/36), +7-952-903-03-05 (алмазное бурение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/37), +7-983-510-74-65 (алмазное бурение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/68), +7-953-780-12-09 (кондиционеры)
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/90), +7-913-923-60-20 (двери)
 
 
 ## Стяжка, штукатурка
@@ -124,5 +127,6 @@
 - [Иван](https://github.com/contfedorov/sigma-workers/issues/9), +7-913-951-59-81
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/62), +7-913-720-10-68
 - [Олег](https://github.com/contfedorov/sigma-workers/issues/86), +7-952-900-40-95
+- [Юрий](https://github.com/contfedorov/sigma-workers/issues/88), +7-952-944-94-08
 
 
