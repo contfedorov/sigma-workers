@@ -127,6 +127,7 @@
 - [Иван](https://github.com/contfedorov/sigma-workers/issues/9), +7-913-951-59-81
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/62), +7-913-720-10-68
 - [Олег](https://github.com/contfedorov/sigma-workers/issues/86), +7-952-900-40-95
+- [Олег](https://github.com/contfedorov/sigma-workers/issues/91), +7-913-004-15-92
 - [Юрий](https://github.com/contfedorov/sigma-workers/issues/88), +7-952-944-94-08
 
 
