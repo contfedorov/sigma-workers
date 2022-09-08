@@ -14,6 +14,7 @@
 - [Большая Медведица](https://github.com/contfedorov/sigma-workers/issues/30), https://www.medvediza.ru/ (торгово-выставочный комплекс)
 - [Калейдоскоп](https://github.com/contfedorov/sigma-workers/issues/31), https://www.kaleidockop.ru/ (торгово-выставочный комплекс)
 - [Колорлон](https://github.com/contfedorov/sigma-workers/issues/34), https://colorlon.ru/ (материалы для строительства и ремонта)
+- [Красный мамонт](https://github.com/contfedorov/sigma-workers/issues/93), http://www.redmamont.com/ (торгово-выставочный комплекс)
 - [Партнер](https://github.com/contfedorov/sigma-workers/issues/29), https://partnertorg.com/ (строительный гипермаркет)
 - [Сатурн](https://github.com/contfedorov/sigma-workers/issues/26), https://nsk.saturn.net/ (гипермаркет стройматериалов)
 
@@ -27,11 +28,14 @@
 
 - [Новострой](https://github.com/contfedorov/sigma-workers/issues/27), https://nsk-stroy.com/ (материалы для строительства и ремонта)
 - [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
+- [Текнос Деко](https://github.com/contfedorov/sigma-workers/issues/94), +7-913-373-42-38 (краски)
 
 ## Электрика
 
 - [Академ Кабель](https://github.com/contfedorov/sigma-workers/issues/44), 363-57-00, 363-58-00, https://akademkab.ru/
 - [Минимакс](https://github.com/contfedorov/sigma-workers/issues/47), https://www.minimaks.ru/
+- [Новосибирский завод силовой кабель (НЗСК)](https://github.com/contfedorov/sigma-workers/issues/95), 3-600-100, https://zskab.ru/ (кабельная продукция)
+- [Новосибирский кабельный завод (НКЗ)](https://github.com/contfedorov/sigma-workers/issues/96), 285-80-98, http://nkz-nsk.ru/ (кабельная продукция)
 - [Русский Свет](https://github.com/contfedorov/sigma-workers/issues/45), https://rs24.ru/
 - [СумракОФФ](https://github.com/contfedorov/sigma-workers/issues/48), https://www.sumrakoff.ru
 - [ЭТМ](https://github.com/contfedorov/sigma-workers/issues/46), https://www.etm.ru/
