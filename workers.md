@@ -106,6 +106,7 @@
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/37), +7-983-510-74-65 (алмазное бурение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/68), +7-953-780-12-09 (кондиционеры)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/90), +7-913-923-60-20 (двери)
+- [Сергей Торгашов](https://github.com/contfedorov/sigma-workers/issues/97), +7 952 918-05-05 (душевое ограждение)
 
 
 ## Стяжка, штукатурка
