@@ -73,6 +73,7 @@
 ## Окна
 - [Академия окон](https://github.com/contfedorov/sigma-workers/issues/64), +7-913-203-32-22 (окна, москитные сетки)
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/52), +7-913-920-28-08
+- [АСК сервис](https://github.com/contfedorov/sigma-workers/issues/103), +7-913-707-03-94
 - [Мироград](https://github.com/contfedorov/sigma-workers/issues/53), Алексей, +7-906-995-23-84
 - [Профиль-Реконструкция](https://github.com/contfedorov/sigma-workers/issues/69), Игорь, +7-913-985-44-33
 - [Руслан](https://github.com/contfedorov/sigma-workers/issues/70), +7-913-207-98-78
@@ -89,6 +90,7 @@
 
 ## Прочее
 - [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74 (спецтехника, уборка снега/мусора, сыпучие материалы)
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/101), +7-913-478-21-13 (двери)
 - [Андрей](https://github.com/contfedorov/sigma-workers/issues/89), +7-913-399-80-53 (межкомнатные двери)
 - [Артём](https://github.com/contfedorov/sigma-workers/issues/77), +7-903-906-91-38 (бочки)
 - [Водовоз](https://github.com/contfedorov/sigma-workers/issues/82), +7-923-709-07-48
@@ -104,6 +106,7 @@
 - ⚠️ [Мухтор](https://github.com/contfedorov/sigma-workers/issues/25), +7-951-386-32-74 (оклеечная гидроизоляция фундамента)
 - [Николай](https://github.com/contfedorov/sigma-workers/issues/65), +7-913-924-13-23 (черный грунт, земля, перегной)
 - [Олег](https://github.com/contfedorov/sigma-workers/issues/36), +7-952-903-03-05 (алмазное бурение)
+- [Павел](https://github.com/contfedorov/sigma-workers/issues/100), +7-913-925-41-24 (изделия из стекла)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/37), +7-983-510-74-65 (алмазное бурение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/68), +7-953-780-12-09 (кондиционеры)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/90), +7-913-923-60-20 (двери)
@@ -112,6 +115,7 @@
 
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77
+- [Антон](https://github.com/contfedorov/sigma-workers/issues/99)б +7-913-897-05-99 (механизированная штукатурка)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40 (полусухая стяжка, бетонные работы)
 - [Роман](https://github.com/contfedorov/sigma-workers/issues/79), +7-962-828-40-48 (полусухая стяжка)
 
@@ -120,6 +124,7 @@
 - [Алексей Васильевич](https://github.com/contfedorov/sigma-workers/issues/84), +7-913-922-53-67 (чистовая отделка лестниц)
 - ⚠️ [Андрей Фетисов](https://github.com/contfedorov/sigma-workers/issues/83), +7-960-791-69-98 (чистовая отделка лестниц, столярные работы)
 - [Древодар](https://github.com/contfedorov/sigma-workers/issues/63), Александр +7-953-772-22-42 (чистовая отделка лестниц)
+- [Мухамед](https://github.com/contfedorov/sigma-workers/issues/102), +7-953-874-16-13
 - [Станислав](https://github.com/contfedorov/sigma-workers/issues/92), +7-913-776-45-02 (напольные покрытия)
 
 ## Электрика
