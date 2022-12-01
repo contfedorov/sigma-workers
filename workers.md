@@ -124,6 +124,7 @@
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
 - [Алексей Васильевич](https://github.com/contfedorov/sigma-workers/issues/84), +7-913-922-53-67 (чистовая отделка лестниц)
 - ⚠️ [Андрей Фетисов](https://github.com/contfedorov/sigma-workers/issues/83), +7-960-791-69-98 (чистовая отделка лестниц, столярные работы)
+- [Денис](https://github.com/contfedorov/sigma-workers/issues/107), +7-923-121-13-28 (плитка, чистовая отделка)
 - [Древодар](https://github.com/contfedorov/sigma-workers/issues/63), Александр +7-953-772-22-42 (чистовая отделка лестниц)
 - [Мухамед](https://github.com/contfedorov/sigma-workers/issues/102), +7-953-874-16-13
 - [Станислав](https://github.com/contfedorov/sigma-workers/issues/92), +7-913-776-45-02 (напольные покрытия)
