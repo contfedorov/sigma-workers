@@ -30,6 +30,14 @@
 - [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
 - [Текнос Деко](https://github.com/contfedorov/sigma-workers/issues/94), +7-913-373-42-38 (краски)
 
+## Чистовые материалы из дерева
+
+Элементы лестниц (ступени, подступенки, балясины), террасная/палубная доска.
+
+- [Elite wood](https://github.com/contfedorov/sigma-workers/issues/110), https://el-w.ru/ (пиломатериалы)
+- [Братская лесоторговая компания](https://github.com/contfedorov/sigma-workers/issues/109), https://bltk.pro/ (пиломатериалы)
+- [Мастер шпон](https://github.com/contfedorov/sigma-workers/issues/111), https://master-shpon54.ru/ (пиломатериалы)
+
 ## Электрика
 
 - [Академ Кабель](https://github.com/contfedorov/sigma-workers/issues/44), 363-57-00, 363-58-00, https://akademkab.ru/
