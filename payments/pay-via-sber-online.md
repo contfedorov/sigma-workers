@@ -6,7 +6,7 @@
 
 ## Порядок оплаты
 
-1. Зайти в Сбербанк Online, нажать "Платежи и переводы".
+1. Зайти в [Сбербанк Online](https://online.sberbank.ru/), нажать "Платежи и переводы".
 
 ![Step 1](./assets/sber-online-pay1.png)
 
