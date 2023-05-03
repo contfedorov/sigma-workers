@@ -7,6 +7,7 @@
 - [Где купить](where-to-buy.md)
 - [Об оплате](payments/README.md)
 - [Отопление](heating/README.md)
+- [Разное](misc.md)
 - [Список подрядчиков](workers.md)
 
 ## Полезные телефоны
