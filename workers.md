@@ -127,6 +127,7 @@
 ## Чистовая отделка
 - [KAMENEVGROUP](https://github.com/contfedorov/sigma-workers/issues/118), 34‒99‒555 (декоративная штукатурка, краски)
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
+- [Артём](https://github.com/contfedorov/sigma-workers/issues/124), +7-999-464-66-28 (плитка)
 - [Виктор](https://github.com/contfedorov/sigma-workers/issues/108), +7-913-891-42-97 (шпаклёвка, декоративная штукатурка, обои)
 - [Денис](https://github.com/contfedorov/sigma-workers/issues/107), +7-923-121-13-28 (плитка, чистовая отделка)
 - [Маргарита](https://github.com/contfedorov/sigma-workers/issues/119), +7-913-904-11-09 (декоративная штукатурка)
