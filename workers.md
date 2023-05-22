@@ -38,6 +38,7 @@
 - [Андрей](https://github.com/contfedorov/sigma-workers/issues/76), +7-913-011-44-33  (трактор с фрезой)
 - [Борис](https://github.com/contfedorov/sigma-workers/issues/120), +7-913-912-09-62 (вертикальная планировка)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
+- [Трактор-погрузчик](https://github.com/contfedorov/sigma-workers/issues/123), +7-913-741-50-16
 
 ## Камины, дымоходы
 - [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24
