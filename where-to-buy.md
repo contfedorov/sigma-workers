@@ -29,6 +29,7 @@
 
 - [Лига](https://github.com/contfedorov/sigma-workers/issues/115), 210‒57‒63, https://www.renner.ru/ (лакокрасочные материалы)
 - [Новострой](https://github.com/contfedorov/sigma-workers/issues/27), https://nsk-stroy.com/ (материалы для строительства и ремонта)
+- [Семен](https://github.com/contfedorov/sigma-workers/issues/125), +7-913-378-30-05 (дрова)
 - [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
 - [Текнос Деко](https://github.com/contfedorov/sigma-workers/issues/94), +7-913-373-42-38 (лакокрасочные материалы)
 
