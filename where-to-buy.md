@@ -27,6 +27,7 @@
 
 ## Прочее
 
+- [Вира-Плюс](https://github.com/contfedorov/sigma-workers/issues/126), 335-64-70, https://viraplus.ru/ (металл)
 - [Лига](https://github.com/contfedorov/sigma-workers/issues/115), 210‒57‒63, https://www.renner.ru/ (лакокрасочные материалы)
 - [Новострой](https://github.com/contfedorov/sigma-workers/issues/27), https://nsk-stroy.com/ (материалы для строительства и ремонта)
 - [Семен](https://github.com/contfedorov/sigma-workers/issues/125), +7-913-378-30-05 (дрова)
