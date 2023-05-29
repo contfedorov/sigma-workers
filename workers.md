@@ -104,6 +104,7 @@
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/67), +7-952-908-45-11 (кондиционеры)
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16 (дороги, черный грунт)
 - [Зора](https://github.com/contfedorov/sigma-workers/issues/24), +7-923-135-11-93 (водосточные системы)
+- [Интех](https://github.com/contfedorov/sigma-workers/issues/127), +7-968-706-05-05, +7-995-946-77-10 (слаботочка/радиосвязь)
 - [Карьер Борок](https://github.com/contfedorov/sigma-workers/issues/54), 363‒92‒41 (щебень, песок)
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/78), +7-913-917-61-69 (алмазное бурение)
 - [Максим](https://github.com/contfedorov/sigma-workers/issues/113), +7-923-128-97-83 (гидроизоляция)
