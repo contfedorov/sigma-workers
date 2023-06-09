@@ -120,7 +120,7 @@
 
 
 ## Стяжка, штукатурка
-- [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77 (полусухая стяжка)
 - [Антон](https://github.com/contfedorov/sigma-workers/issues/99), +7-913-897-05-99 (механизированная штукатурка)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40 (полусухая стяжка, бетонные работы)
 - [Роман](https://github.com/contfedorov/sigma-workers/issues/79), +7-962-828-40-48 (полусухая стяжка)
