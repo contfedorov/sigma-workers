@@ -53,7 +53,7 @@
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/11), +7-913-763-16-00
 
 ## Мебель
-- [Sweet Home](https://github.com/contfedorov/sigma-workers/issues/87), Валерий, +7-913-710-77-98
+- [Sweet Home](https://github.com/contfedorov/sigma-workers/issues/87), Татьяна, +7-953-809-88-23
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/15), +7-952-910-60-18
 - [Максим](https://github.com/contfedorov/sigma-workers/issues/14), +7-913-477-32-23
 - [Павел](https://github.com/contfedorov/sigma-workers/issues/16), +7-913-916-44-15 (кухни)
