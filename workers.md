@@ -10,6 +10,7 @@
 ## Содержание
 
 - [Вывоз мусора](#вывоз-мусора)
+- [Двери](#двери)
 - [Земляные работы](#земляные-работы)
 - [Камины, дымоходы](#камины-дымоходы)
 - [Комплексные бригады](#комплексные-бригады)
@@ -31,6 +32,13 @@
 - [Грузим с умом](https://github.com/contfedorov/sigma-workers/issues/41), +7-913-944-36-31, 331-00-80
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/60), +7-913-920-42-93
 
+## Двери
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/101), +7-913-478-21-13
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/89), +7-913-399-80-53
+- [Виталий](https://github.com/contfedorov/sigma-workers/issues/128), +7-913-759-17-99
+- [Григорий](https://github.com/contfedorov/sigma-workers/issues/98), +7-913-399-55-87
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/90), +7-913-923-60-20
+ 
 ## Земляные работы
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
@@ -94,11 +102,8 @@
 
 ## Прочее
 - [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74 (спецтехника, уборка снега/мусора, сыпучие материалы)
-- [Алексей](https://github.com/contfedorov/sigma-workers/issues/101), +7-913-478-21-13 (двери)
-- [Андрей](https://github.com/contfedorov/sigma-workers/issues/89), +7-913-399-80-53 (межкомнатные двери)
 - [Артём](https://github.com/contfedorov/sigma-workers/issues/77), +7-903-906-91-38 (бочки)
 - [Водовоз](https://github.com/contfedorov/sigma-workers/issues/82), +7-923-709-07-48
-- [Григорий](https://github.com/contfedorov/sigma-workers/issues/98), +7-913-399-55-87 (двери)
 - [Грунт](https://github.com/contfedorov/sigma-workers/issues/81), +7-952-922-12-15 (чёрный грунт)
 - [Дом и Сад](https://github.com/contfedorov/sigma-workers/issues/51), +7-913-917-00-97 (благоустройство и озеленение)
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/67), +7-952-908-45-11 (кондиционеры)
@@ -115,7 +120,6 @@
 - [Павел](https://github.com/contfedorov/sigma-workers/issues/100), +7-913-925-41-24 (изделия из стекла)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/37), +7-983-510-74-65 (алмазное бурение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/68), +7-953-780-12-09 (кондиционеры)
-- [Сергей](https://github.com/contfedorov/sigma-workers/issues/90), +7-913-923-60-20 (двери)
 - [Сергей Торгашов](https://github.com/contfedorov/sigma-workers/issues/97), +7-952-918-05-05 (душевое ограждение)
 
 
