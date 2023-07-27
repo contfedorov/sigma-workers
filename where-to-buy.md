@@ -33,6 +33,7 @@
 - [Семен](https://github.com/contfedorov/sigma-workers/issues/125), +7-913-378-30-05 (дрова)
 - [СпецПром](https://github.com/contfedorov/sigma-workers/issues/35), +7-952-911-18-90, http://spetsprom.net/ (теплоизоляционные материалы)
 - [Текнос Деко](https://github.com/contfedorov/sigma-workers/issues/94), +7-913-373-42-38 (лакокрасочные материалы)
+- [Чалдон](https://github.com/contfedorov/sigma-workers/issues/132) http://чалдон.рф/ (материалы для строительства и ремонта)
 
 ## Чистовые материалы из дерева
 
