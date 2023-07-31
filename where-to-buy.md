@@ -40,6 +40,7 @@
 Элементы лестниц (ступени, подступенки, балясины), террасная/палубная доска.
 
 - [Elite wood](https://github.com/contfedorov/sigma-workers/issues/110), https://el-w.ru/ (пиломатериалы)
+- [АВ-строй](https://github.com/contfedorov/sigma-workers/issues/133), http://ав-строй.рф (пиломатериалы)
 - [Арт 3Д](https://github.com/contfedorov/sigma-workers/issues/121), +7-991-427-92-14 (комплектующие для лестниц)
 - [Братская лесоторговая компания](https://github.com/contfedorov/sigma-workers/issues/109), https://bltk.pro/ (пиломатериалы)
 - [Мастер шпон](https://github.com/contfedorov/sigma-workers/issues/111), https://master-shpon54.ru/ (пиломатериалы)
