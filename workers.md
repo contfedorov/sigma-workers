@@ -81,6 +81,7 @@
 
 ## Общестроительные работы
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичная кладка)
+- [Евгений](https://github.com/contfedorov/sigma-workers/issues/143), +7-913-890-75-00 (бетонные работы)
 - ⚠️ [Наиб](https://github.com/contfedorov/sigma-workers/issues/40), +7-983-321-31-61 (отмостки)
 - [Рустам](https://github.com/contfedorov/sigma-workers/issues/7), +7-952-939-70-70
 
