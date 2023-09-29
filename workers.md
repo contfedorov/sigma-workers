@@ -139,6 +139,7 @@
 
 ## Уборка, клининг
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/137), +7-913-000-32-02
+- [Владислав](https://github.com/contfedorov/sigma-workers/issues/139), +7-913-722-11-66
 - [Нина/Евгений](https://github.com/contfedorov/sigma-workers/issues/57), +7-913-941-83-42
 - [Техноклининг](https://github.com/contfedorov/sigma-workers/issues/136), +7-913-915-42-46, 311-01-77
 
