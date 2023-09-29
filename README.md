@@ -8,6 +8,7 @@
 - [Об оплате](payments/README.md)
 - [Отопление](heating/README.md)
 - [Разное](misc.md)
+- [Расписание автобусов](timetable-buses/README.md)
 - [Список подрядчиков](workers.md)
 
 ## Полезные телефоны
