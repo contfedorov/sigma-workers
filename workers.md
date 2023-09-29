@@ -132,6 +132,11 @@
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40 (полусухая стяжка, бетонные работы)
 - [Роман](https://github.com/contfedorov/sigma-workers/issues/79), +7-962-828-40-48 (полусухая стяжка)
 
+## Уборка/клининг
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/137), +7-913-000-32-02
+- [Нина/Евгений](https://github.com/contfedorov/sigma-workers/issues/57), +7-913-941-83-42
+- [Техноклининг](https://github.com/contfedorov/sigma-workers/issues/136), +7-913-915-42-46, 311-01-77
+
 ## Чистовая отделка
 - [KAMENEVGROUP](https://github.com/contfedorov/sigma-workers/issues/118), 34‒99‒555 (декоративная штукатурка, краски)
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
