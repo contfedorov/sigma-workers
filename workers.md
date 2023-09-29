@@ -129,7 +129,7 @@
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16
 - [Карьер Борок](https://github.com/contfedorov/sigma-workers/issues/54), 363-92-41
 - [Николай](https://github.com/contfedorov/sigma-workers/issues/65), +7-913-924-13-23
-
+- [Юрий](https://github.com/contfedorov/sigma-workers/issues/140), +7-913-062-55-32
 
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77 (полусухая стяжка)
@@ -153,6 +153,7 @@
 - [Маргарита](https://github.com/contfedorov/sigma-workers/issues/119), +7-913-904-11-09 (декоративная штукатурка)
 - [Мухамед](https://github.com/contfedorov/sigma-workers/issues/102), +7-953-874-16-13
 - [Ровшан](https://github.com/contfedorov/sigma-workers/issues/122), +7-913-724-36-00
+- [Роман](https://github.com/contfedorov/sigma-workers/issues/141), +7-913-018-49-65
 - [Станислав](https://github.com/contfedorov/sigma-workers/issues/92), +7-913-776-45-02 (напольные покрытия)
 - [Шохром](https://github.com/contfedorov/sigma-workers/issues/104), +7-996-378-73-63, +7-960-983-10-67 (штукатурка, чистовая отделка)
 
