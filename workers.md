@@ -98,6 +98,7 @@
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), +7-983-002-93-00
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/105), +7-923-150-44-47
 - [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел 312-13-16 zakaz@gk-dst.ru
+- ⚠️ [Константин](https://github.com/contfedorov/sigma-workers/issues/145), +7-951-374-89-72
 - [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
 
 ## Охрана
