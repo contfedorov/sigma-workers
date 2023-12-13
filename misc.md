@@ -20,4 +20,5 @@
 
 ## О котлах
 
-1. Из чата: "в интернете пишут, что вот https://ducapump.ru/shop/universalnye-nasosy/dvigatel-nasosa-duca-vpwr-6-7-2/ встает на наши массовые [Protherm Panther] 25kto "bolt on"
+1. в интернете пишут, что вот https://ducapump.ru/shop/universalnye-nasosy/dvigatel-nasosa-duca-vpwr-6-7-2/ встает на наши массовые [Protherm Panther] 25kto "bolt on"
+2. По этим номерам на озоне можно найти роторы (совместимые) 0020201776, 87186450600 ([ссылка 1](https://www.ozon.ru/product/rotor-dlya-nasosa-wilo-remontnaya-vstavka-67h38mm-vrashchenie-vlevo-protiv-chasovoy-strelki-856228011/), [ссылка 2](https://www.ozon.ru/search/?deny_category_prediction=true&product_id=856228010))
