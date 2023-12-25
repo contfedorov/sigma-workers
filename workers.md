@@ -74,10 +74,13 @@
 - [Сергей Войнов](https://github.com/contfedorov/sigma-workers/issues/116), +7-953-769-19-93
 
 ## Натяжные потолки
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/80), +7-913-751-54-77
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/58), +7-913-475-04-39
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/59), +7-913-930-30-16
 - [Нина/Евгений](https://github.com/contfedorov/sigma-workers/issues/57), +7-913-941-83-42
-- [Александр](https://github.com/contfedorov/sigma-workers/issues/80), +7-913-751-54-77
+- [Роман](https://github.com/contfedorov/sigma-workers/issues/147), +7-953-781-73-67
+- [Сибирская потолочная компания](https://github.com/contfedorov/sigma-workers/issues/148), +7-913-753-53-77, +7-953-894-93-81
+
 
 ## Общестроительные работы
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичная кладка)
