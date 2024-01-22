@@ -152,9 +152,9 @@
 ## Чистовая отделка
 - [KAMENEVGROUP](https://github.com/contfedorov/sigma-workers/issues/118), 34‒99‒555 (декоративная штукатурка, краски)
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
-- [Артём](https://github.com/contfedorov/sigma-workers/issues/124), +7-999-464-66-28 (плитка)
-- [Виктор](https://github.com/contfedorov/sigma-workers/issues/108), +7-913-891-42-97 (шпаклёвка, покраска, обои)
-- [Денис](https://github.com/contfedorov/sigma-workers/issues/107), +7-923-121-13-28 (плитка, чистовая отделка)
+- [Артём/Роман](https://github.com/contfedorov/sigma-workers/issues/124), +7-999-464-66-28
+- [Виктор](https://github.com/contfedorov/sigma-workers/issues/108), +7-913-891-42-97
+- [Денис](https://github.com/contfedorov/sigma-workers/issues/107), +7-923-121-13-28
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/146), +7-913-925-32-23
 - [Лариса](https://github.com/contfedorov/sigma-workers/issues/130), +7-952-946-92-03
 - [Маргарита](https://github.com/contfedorov/sigma-workers/issues/119), +7-913-904-11-09 (декоративная штукатурка)
@@ -162,7 +162,7 @@
 - [Ровшан](https://github.com/contfedorov/sigma-workers/issues/122), +7-913-724-36-00
 - [Роман](https://github.com/contfedorov/sigma-workers/issues/141), +7-913-018-49-65
 - [Станислав](https://github.com/contfedorov/sigma-workers/issues/92), +7-913-776-45-02 (напольные покрытия)
-- [Шохром](https://github.com/contfedorov/sigma-workers/issues/104), +7-996-378-73-63, +7-960-983-10-67 (штукатурка, чистовая отделка)
+- [Шохром](https://github.com/contfedorov/sigma-workers/issues/104), +7-996-378-73-63, +7-960-983-10-67
 
 ## Чистовая отделка лестниц
 - [Алексей Васильевич](https://github.com/contfedorov/sigma-workers/issues/84), +7-913-922-53-67
