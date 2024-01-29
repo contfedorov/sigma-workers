@@ -92,6 +92,7 @@
 ## Окна
 - [Академия окон](https://github.com/contfedorov/sigma-workers/issues/64), +7-913-203-32-22 (окна, москитные сетки)
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/52), +7-913-920-28-08
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/150), +7-953-806-95-22 (регулировка окон)
 - [АСК сервис](https://github.com/contfedorov/sigma-workers/issues/103), +7-913-707-03-94
 - [Мироград](https://github.com/contfedorov/sigma-workers/issues/53), Алексей, +7-906-995-23-84
 - [Профиль-Реконструкция](https://github.com/contfedorov/sigma-workers/issues/69), Игорь, +7-913-985-44-33
@@ -151,6 +152,7 @@
 
 ## Чистовая отделка
 - [KAMENEVGROUP](https://github.com/contfedorov/sigma-workers/issues/118), 34‒99‒555 (декоративная штукатурка, краски)
+- [Азиз](https://github.com/contfedorov/sigma-workers/issues/149), +7-923-236-97-48
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
 - [Артём/Роман](https://github.com/contfedorov/sigma-workers/issues/124), +7-999-464-66-28
 - [Виктор](https://github.com/contfedorov/sigma-workers/issues/108), +7-913-891-42-97
