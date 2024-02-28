@@ -75,6 +75,7 @@
 
 ## Натяжные потолки
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/80), +7-913-751-54-77
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/151), +7-923-235-86-22
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/58), +7-913-475-04-39
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/59), +7-913-930-30-16
 - [Нина/Евгений](https://github.com/contfedorov/sigma-workers/issues/57), +7-913-941-83-42
@@ -171,6 +172,7 @@
 - ⚠️ [Андрей Фетисов](https://github.com/contfedorov/sigma-workers/issues/83), +7-960-791-69-98 (столярные работы)
 - [Древодар](https://github.com/contfedorov/sigma-workers/issues/63), Александр +7-953-772-22-42
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/114), +7-961-870-74-44
+- [Палисандр](https://github.com/contfedorov/sigma-workers/issues/152), Роман Барышев, +7-923-133-69-67
 
 ## Электрика
 - [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
