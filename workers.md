@@ -54,6 +54,7 @@
 - [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24
 - [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24
 - [Антон](https://github.com/contfedorov/sigma-workers/issues/50), +7-953-864-67-77
+- [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичные печи, барбекю)
 
 ## Комплексные бригады
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/17), +7-913-919-81-57
