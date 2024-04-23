@@ -54,6 +54,7 @@
 - [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24
 - [Андрей Галий](https://github.com/contfedorov/sigma-workers/issues/4), +7-913-921-31-24
 - [Антон](https://github.com/contfedorov/sigma-workers/issues/50), +7-953-864-67-77
+- [Евгений](https://github.com/contfedorov/sigma-workers/issues/8), +7-913-895-96-33 (кирпичные печи, барбекю)
 
 ## Комплексные бригады
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/17), +7-913-919-81-57
@@ -75,6 +76,7 @@
 
 ## Натяжные потолки
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/80), +7-913-751-54-77
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/151), +7-923-235-86-22
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/58), +7-913-475-04-39
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/59), +7-913-930-30-16
 - [Нина/Евгений](https://github.com/contfedorov/sigma-workers/issues/57), +7-913-941-83-42
@@ -104,7 +106,7 @@
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/105), +7-923-150-44-47
 - [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел 312-13-16 zakaz@gk-dst.ru
 - ⚠️ [Константин](https://github.com/contfedorov/sigma-workers/issues/145), +7-951-374-89-72
-- [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
+- ⚠️ [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
 
 ## Охрана
 - [Неоком](https://github.com/contfedorov/sigma-workers/issues/21), Петр +7-913-913-64-51
@@ -171,6 +173,7 @@
 - ⚠️ [Андрей Фетисов](https://github.com/contfedorov/sigma-workers/issues/83), +7-960-791-69-98 (столярные работы)
 - [Древодар](https://github.com/contfedorov/sigma-workers/issues/63), Александр +7-953-772-22-42
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/114), +7-961-870-74-44
+- [Палисандр](https://github.com/contfedorov/sigma-workers/issues/152), Роман Барышев, +7-923-133-69-67
 
 ## Электрика
 - [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
