@@ -6,7 +6,7 @@
 - [Оплата через банкомат ВТБ](pay-via-vtb-atm.md)
 - [Оплата через ВТБ Online](pay-via-vtb-online.md)
 - [Оплата через Сбербанк Online](pay-via-sber-online.md)
-
+- [Оплата через банкомат Открытия](pay-via-openbank-atm.md)
 
 ## Общий порядок оплаты ресурсов
 
