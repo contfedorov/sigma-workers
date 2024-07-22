@@ -72,6 +72,7 @@
 ## Металлоконструкции
 - [Андрей](https://github.com/contfedorov/sigma-workers/issues/131), +7-913-708-22-75
 - [Дильшат](https://github.com/contfedorov/sigma-workers/issues/1), +7-913-763-75-47
+- [Максим](https://github.com/contfedorov/sigma-workers/issues/154), +7-999-451-68-96
 - [Сергей Войнов](https://github.com/contfedorov/sigma-workers/issues/116), +7-953-769-19-93
 
 ## Натяжные потолки
