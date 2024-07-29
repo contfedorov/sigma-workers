@@ -171,11 +171,13 @@
 - [Шохром](https://github.com/contfedorov/sigma-workers/issues/104), +7-996-378-73-63, +7-960-983-10-67
 
 ## Чистовая отделка лестниц
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/155), +7-923-231-85-63
 - [Алексей Васильевич](https://github.com/contfedorov/sigma-workers/issues/84), +7-913-922-53-67
 - ⚠️ [Андрей Фетисов](https://github.com/contfedorov/sigma-workers/issues/83), +7-960-791-69-98 (столярные работы)
 - [Древодар](https://github.com/contfedorov/sigma-workers/issues/63), Александр +7-953-772-22-42
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/114), +7-961-870-74-44
 - [Палисандр](https://github.com/contfedorov/sigma-workers/issues/152), Роман Барышев, +7-923-133-69-67
+- [Юрий](https://github.com/contfedorov/sigma-workers/issues/156), +7-905-953-93-22, +7-953-866-52-20
 
 ## Электрика
 - [Electroline](https://github.com/contfedorov/sigma-workers/issues/20), +7‒913‒948‒23‒86, +7‒996‒377‒16‒32
