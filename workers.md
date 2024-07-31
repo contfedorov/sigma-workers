@@ -105,10 +105,12 @@
 ## Отопление, вода, канализация
 - [Виктор](https://github.com/contfedorov/sigma-workers/issues/56), +7-913-747-17-12
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), +7-983-002-93-00
+- [Денис](https://github.com/contfedorov/sigma-workers/issues/158), +7-913-898-07-77 (разные работы по сантехнике)
+- [Денис](https://github.com/contfedorov/sigma-workers/issues/159), +7-953-777-43-47 (разные работы по сантехнике)
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/105), +7-923-150-44-47
 - [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел 312-13-16 zakaz@gk-dst.ru
 - ⚠️ [Константин](https://github.com/contfedorov/sigma-workers/issues/145), +7-951-374-89-72
-- [Сергей](https://github.com/contfedorov/sigma-workers/issues/157), +7-913-786-78-23
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/157), +7-913-786-78-23 (разные работы по сантехнике)
 - ⚠️ [Строй+](https://github.com/contfedorov/sigma-workers/issues/12), Максим Надеждин +7-913-063-03-23
 
 ## Охрана
