@@ -171,6 +171,7 @@
 - [Мухамед](https://github.com/contfedorov/sigma-workers/issues/102), +7-953-874-16-13
 - [Ровшан](https://github.com/contfedorov/sigma-workers/issues/122), +7-913-724-36-00
 - [Роман](https://github.com/contfedorov/sigma-workers/issues/141), +7-913-018-49-65
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/160), +7-952-913-25-75
 - [Станислав](https://github.com/contfedorov/sigma-workers/issues/92), +7-913-776-45-02 (напольные покрытия)
 - [Шохром](https://github.com/contfedorov/sigma-workers/issues/104), +7-996-378-73-63, +7-960-983-10-67
 
