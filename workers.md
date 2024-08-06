@@ -28,6 +28,7 @@
 - [Чистовая отделка](#чистовая-отделка)
 - [Чистовая отделка лестниц](#чистовая-отделка-лестниц)
 - [Электрика](#электрика)
+- [Не работают больше в Сигме](#не-работают-больше-в-сигме)
 
 ## Вывоз мусора
 - [Академсамосвал](https://github.com/contfedorov/sigma-workers/issues/55), +7-913-208-50-17
@@ -47,8 +48,6 @@
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/73), +7-913-959-99-89 (трактор с фрезой)
 - [Андрей](https://github.com/contfedorov/sigma-workers/issues/76), +7-913-011-44-33  (трактор с фрезой)
-- [Борис](https://github.com/contfedorov/sigma-workers/issues/120), +7-913-912-09-62 (вертикальная планировка)
-- [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
 - [Трактор-погрузчик](https://github.com/contfedorov/sigma-workers/issues/123), +7-913-741-50-16
 
 ## Камины, дымоходы
@@ -197,4 +196,6 @@
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/129), +7-953-890-16-74
 - [Юрий](https://github.com/contfedorov/sigma-workers/issues/88), +7-952-944-94-08
 
-
+## Не работают больше в Сигме
+- [Борис](https://github.com/contfedorov/sigma-workers/issues/120), +7-913-912-09-62 (вертикальная планировка)
+- [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
