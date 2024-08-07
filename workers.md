@@ -120,6 +120,7 @@
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/134), +7-999-457-00-27 (кровельные работы)
 - ⚠️ [Алик (Ахаджан)](https://github.com/contfedorov/sigma-workers/issues/153)
 - [Артём](https://github.com/contfedorov/sigma-workers/issues/77), +7-903-906-91-38 (бочки)
+- [Владимир](https://github.com/contfedorov/sigma-workers/issues/161), +7-913-758-70-59 Telegram, +7-913-745-41-84 WhatsApp (покос травы)
 - [Водовоз](https://github.com/contfedorov/sigma-workers/issues/82), +7-923-709-07-48
 - [Дом и Сад](https://github.com/contfedorov/sigma-workers/issues/51), +7-913-917-00-97 (благоустройство и озеленение)
 - [Евгений](https://github.com/contfedorov/sigma-workers/issues/67), +7-952-908-45-11 (кондиционеры)
