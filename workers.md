@@ -60,6 +60,7 @@
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/17), +7-913-919-81-57
 - [Антон Зверев](https://github.com/contfedorov/sigma-workers/issues/117), +7-913-940-93-79
 - [Антон Кулин](https://github.com/contfedorov/sigma-workers/issues/13), +7-913-775-55-05
+- [Видяков Виктор Васильевич](https://github.com/contfedorov/sigma-workers/issues/162), +7-913-758-09-87
 - [РемСтрой](https://github.com/contfedorov/sigma-workers/issues/10), Алексей Береговой +7-913-466-84-50
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/11), +7-913-763-16-00
 
@@ -68,6 +69,7 @@
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/15), +7-952-910-60-18
 - [Максим](https://github.com/contfedorov/sigma-workers/issues/14), +7-913-477-32-23
 - [Павел](https://github.com/contfedorov/sigma-workers/issues/16), +7-913-916-44-15 (кухни)
+- [Сергей](https://github.com/contfedorov/sigma-workers/issues/165), +7-909-532-05-28
 
 ## Металлоконструкции
 - [Андрей](https://github.com/contfedorov/sigma-workers/issues/131), +7-913-708-22-75
@@ -107,6 +109,7 @@
 - [Денис](https://github.com/contfedorov/sigma-workers/issues/158), +7-913-898-07-77 (разные работы по сантехнике)
 - [Денис](https://github.com/contfedorov/sigma-workers/issues/159), +7-953-777-43-47 (разные работы по сантехнике)
 - [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/105), +7-923-150-44-47
+- [Дмитрий](https://github.com/contfedorov/sigma-workers/issues/164), +7-913-985-25-14
 - [Дом с теплом](https://github.com/contfedorov/sigma-workers/issues/19), Павел 312-13-16 zakaz@gk-dst.ru
 - ⚠️ [Константин](https://github.com/contfedorov/sigma-workers/issues/145), +7-951-374-89-72
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/157), +7-913-786-78-23 (разные работы по сантехнике)
@@ -163,6 +166,7 @@
 - [Азиз](https://github.com/contfedorov/sigma-workers/issues/149), +7-923-236-97-48
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/18), +7-913-486-49-66
 - [Артём/Роман](https://github.com/contfedorov/sigma-workers/issues/124), +7-999-464-66-28
+- [Борис](https://github.com/contfedorov/sigma-workers/issues/163), +7-963-517-36-43
 - [Виктор](https://github.com/contfedorov/sigma-workers/issues/108), +7-913-891-42-97
 - [Денис](https://github.com/contfedorov/sigma-workers/issues/107), +7-923-121-13-28
 - [Константин](https://github.com/contfedorov/sigma-workers/issues/146), +7-913-925-32-23
