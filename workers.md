@@ -138,6 +138,7 @@
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/68), +7-953-780-12-09 (кондиционеры)
 - [Сергей Торгашов](https://github.com/contfedorov/sigma-workers/issues/97), +7-952-918-05-05 (душевое ограждение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/142), +7-960-798-64-10 (благоустройство и озеленение)
+- [Юрий](https://github.com/contfedorov/sigma-workers/issues/166), +7-952-905-23-16 (высотные работы)
 
 ## Спецтехника, сыпучие материалы
 - [Абсолют Авто](https://github.com/contfedorov/sigma-workers/issues/138), +7-913-007-24-25
