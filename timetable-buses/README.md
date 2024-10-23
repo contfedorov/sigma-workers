@@ -4,7 +4,7 @@
 
 ## Файлы
 
-[Сводное расписание в одной картинке](assets/timetable-cheatsheet.jpg) (летнее)
+Сводное расписание в одной картинке: [летнее](assets/timetable-cheatsheet-summer.jpg) / [зимнее](assets/timetable-cheatsheet-winter.jpg)
 
 1. [107, Микрорайон "Щ" (Котельная) - п. Каменушка](assets/bus_107.pdf) (дата введения - 23.04.2018)
 2. [107к, Цветной проезд - п. Каменушка](assets/bus_107k.pdf) (дата введения - 01.02.2017)
