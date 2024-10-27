@@ -44,11 +44,7 @@
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/90), +7-913-923-60-20
  
 ## Земляные работы
-- [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
-- [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
-- [Алексей](https://github.com/contfedorov/sigma-workers/issues/73), +7-913-959-99-89 (трактор с фрезой)
-- [Андрей](https://github.com/contfedorov/sigma-workers/issues/76), +7-913-011-44-33  (трактор с фрезой)
-- [Трактор-погрузчик](https://github.com/contfedorov/sigma-workers/issues/123), +7-913-741-50-16
+
 
 ## Камины, дымоходы
 - [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24
@@ -206,3 +202,8 @@
 ## Не работают больше в Сигме
 - [Борис](https://github.com/contfedorov/sigma-workers/issues/120), +7-913-912-09-62 (вертикальная планировка)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/73), +7-913-959-99-89 (трактор с фрезой)
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/76), +7-913-011-44-33  (трактор с фрезой)
+- [Трактор-погрузчик](https://github.com/contfedorov/sigma-workers/issues/123), +7-913-741-50-16
