@@ -104,6 +104,7 @@
 - [Руслан](https://github.com/contfedorov/sigma-workers/issues/70), +7-913-207-98-78
 
 ## Отопление, вода, канализация
+- [Василий](https://github.com/contfedorov/sigma-workers/issues/167), +7-965-828-58-68 (мастер из Viessman)
 - [Виктор](https://github.com/contfedorov/sigma-workers/issues/56), +7-913-747-17-12
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), +7-983-002-93-00
 - [Денис](https://github.com/contfedorov/sigma-workers/issues/158), +7-913-898-07-77 (разные работы по сантехнике)
