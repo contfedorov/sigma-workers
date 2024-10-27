@@ -140,12 +140,16 @@
 ## Спецтехника, сыпучие материалы
 - [Абсолют Авто](https://github.com/contfedorov/sigma-workers/issues/138), +7-913-007-24-25
 - [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/170), +7-913-922-80-90
 - [Грунт](https://github.com/contfedorov/sigma-workers/issues/81), +7-952-922-12-15
 - [Грунт](https://github.com/contfedorov/sigma-workers/issues/135), +7-913-944-43-94
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16
 - [Карьер Борок](https://github.com/contfedorov/sigma-workers/issues/54), 363-92-41
 - [Николай](https://github.com/contfedorov/sigma-workers/issues/65), +7-913-924-13-23
+- [Сабир](https://github.com/contfedorov/sigma-workers/issues/169), +7-962-828-30-74
+- [Тракторист Закира](https://github.com/contfedorov/sigma-workers/issues/168), +7-913-731-16-43
 - [Юрий](https://github.com/contfedorov/sigma-workers/issues/140), +7-913-062-55-32
+
 
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77 (полусухая стяжка)
