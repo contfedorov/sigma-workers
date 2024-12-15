@@ -44,11 +44,7 @@
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/90), +7-913-923-60-20
  
 ## Земляные работы
-- [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
-- [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
-- [Алексей](https://github.com/contfedorov/sigma-workers/issues/73), +7-913-959-99-89 (трактор с фрезой)
-- [Андрей](https://github.com/contfedorov/sigma-workers/issues/76), +7-913-011-44-33  (трактор с фрезой)
-- [Трактор-погрузчик](https://github.com/contfedorov/sigma-workers/issues/123), +7-913-741-50-16
+
 
 ## Камины, дымоходы
 - [Алексей Кечаев](https://github.com/contfedorov/sigma-workers/issues/49), +7-913-001-72-24
@@ -104,6 +100,7 @@
 - [Руслан](https://github.com/contfedorov/sigma-workers/issues/70), +7-913-207-98-78
 
 ## Отопление, вода, канализация
+- [Василий](https://github.com/contfedorov/sigma-workers/issues/167), +7-965-828-58-68 (мастер из Viessman)
 - [Виктор](https://github.com/contfedorov/sigma-workers/issues/56), +7-913-747-17-12
 - [Вячеслав Ануфриев](https://github.com/contfedorov/sigma-workers/issues/6), +7-983-002-93-00
 - [Денис](https://github.com/contfedorov/sigma-workers/issues/158), +7-913-898-07-77 (разные работы по сантехнике)
@@ -143,18 +140,23 @@
 ## Спецтехника, сыпучие материалы
 - [Абсолют Авто](https://github.com/contfedorov/sigma-workers/issues/138), +7-913-007-24-25
 - [Академ-Cамосвал](https://github.com/contfedorov/sigma-workers/issues/71), +7-913-208-50-17, +7-913-453-73-74
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/170), +7-913-922-80-90
 - [Грунт](https://github.com/contfedorov/sigma-workers/issues/81), +7-952-922-12-15
 - [Грунт](https://github.com/contfedorov/sigma-workers/issues/135), +7-913-944-43-94
 - [Закир](https://github.com/contfedorov/sigma-workers/issues/38), +7-913-741-50-16
 - [Карьер Борок](https://github.com/contfedorov/sigma-workers/issues/54), 363-92-41
 - [Николай](https://github.com/contfedorov/sigma-workers/issues/65), +7-913-924-13-23
+- [Сабир](https://github.com/contfedorov/sigma-workers/issues/169), +7-962-828-30-74
+- [Тракторист Закира](https://github.com/contfedorov/sigma-workers/issues/168), +7-913-731-16-43
 - [Юрий](https://github.com/contfedorov/sigma-workers/issues/140), +7-913-062-55-32
+
 
 ## Стяжка, штукатурка
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/2), +7-983-051-05-77 (полусухая стяжка)
 - [Антон](https://github.com/contfedorov/sigma-workers/issues/99), +7-913-897-05-99 (механизированная штукатурка)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/3), +7-983-510-17-40 (полусухая стяжка, бетонные работы)
 - [Роман](https://github.com/contfedorov/sigma-workers/issues/79), +7-962-828-40-48 (полусухая стяжка)
+- [Эдуард](https://github.com/contfedorov/sigma-workers/issues/171) +7-913-702-90-11 (полусухая стяжка)
 
 ## Уборка, клининг
 - [Александр](https://github.com/contfedorov/sigma-workers/issues/137), +7-913-000-32-02
@@ -205,3 +207,8 @@
 ## Не работают больше в Сигме
 - [Борис](https://github.com/contfedorov/sigma-workers/issues/120), +7-913-912-09-62 (вертикальная планировка)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/5), +7-913-917-56-64 (вертикальная планировка)
+- [Александр](https://github.com/contfedorov/sigma-workers/issues/72), +7-952-900-40-57 (вспашка трактором)
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/39), +7-913-774-06-82 (трактор)
+- [Алексей](https://github.com/contfedorov/sigma-workers/issues/73), +7-913-959-99-89 (трактор с фрезой)
+- [Андрей](https://github.com/contfedorov/sigma-workers/issues/76), +7-913-011-44-33  (трактор с фрезой)
+- [Трактор-погрузчик](https://github.com/contfedorov/sigma-workers/issues/123), +7-913-741-50-16
