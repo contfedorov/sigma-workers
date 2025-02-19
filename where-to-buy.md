@@ -47,6 +47,7 @@
 
 ## Электрика
 
+- [E27.su](https://github.com/contfedorov/sigma-workers/issues/172), https://e27.su/
 - [Академ Кабель](https://github.com/contfedorov/sigma-workers/issues/44), 363-57-00, 363-58-00, https://akademkab.ru/
 - [Минимакс](https://github.com/contfedorov/sigma-workers/issues/47), https://www.minimaks.ru/
 - [Новосибирский завод силовой кабель (НЗСК)](https://github.com/contfedorov/sigma-workers/issues/95), 3-600-100, https://zskab.ru/ (кабельная продукция)
