@@ -69,6 +69,7 @@
 
 ## Металлоконструкции
 - [Андрей](https://github.com/contfedorov/sigma-workers/issues/131), +7-913-708-22-75
+- [Вячеслав](https://github.com/contfedorov/sigma-workers/issues/175), +7-913-989‑79‑38
 - [Дильшат](https://github.com/contfedorov/sigma-workers/issues/1), +7-913-763-75-47
 - [Максим](https://github.com/contfedorov/sigma-workers/issues/154), +7-999-451-68-96
 - [Сергей Войнов](https://github.com/contfedorov/sigma-workers/issues/116), +7-953-769-19-93
@@ -120,6 +121,7 @@
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/134), +7-999-457-00-27 (кровельные работы)
 - ⚠️ [Алик (Ахаджан)](https://github.com/contfedorov/sigma-workers/issues/153)
 - [Артём](https://github.com/contfedorov/sigma-workers/issues/77), +7-903-906-91-38 (бочки)
+- [Виталий](https://github.com/contfedorov/sigma-workers/issues/174), +7-913-776-49-55 (гидроизоляция)
 - [Владимир](https://github.com/contfedorov/sigma-workers/issues/161), +7-913-758-70-59 Telegram, +7-913-745-41-84 WhatsApp (покос травы)
 - [Водовоз](https://github.com/contfedorov/sigma-workers/issues/82), +7-923-709-07-48
 - [Дом и Сад](https://github.com/contfedorov/sigma-workers/issues/51), +7-913-917-00-97 (благоустройство и озеленение)
