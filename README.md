@@ -7,7 +7,7 @@
 - [Где купить](where-to-buy.md)
 - [Об оплате](payments/README.md)
 - [Отопление](heating/README.md)
-- [Разное](misc.md)
+- [Разное](misc)
 - [Расписание автобусов](timetable-buses/README.md)
 - [Список подрядчиков](workers.md)
 
