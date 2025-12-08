@@ -47,6 +47,7 @@
 1. в интернете пишут, что вот [DUCA VPWR 6.7-2](https://kpdsklad.ru/product/golova-cirkuljacionnogo-nasosa-duca-vpwr-6-7-2/) встает на наши массовые [Protherm Panther] 25kto "bolt on"
 2. По этим номерам на озоне можно найти роторы (совместимые) 0020201776, 87186450600 ([ссылка 1](https://www.ozon.ru/product/rotor-dlya-nasosa-wilo-remontnaya-vstavka-67h38mm-vrashchenie-vlevo-protiv-chasovoy-strelki-856228011/), [ссылка 2](https://www.ozon.ru/search/?deny_category_prediction=true&product_id=856228010))
 3. У меня был другой - с зеленой штучкой, [DUCA APW-R 15-6.2A](https://kpdsklad.ru/product/golova-cirkuljacionnogo-nasosa-duca-apw-r-15-6-2a/), встал без проблем
+4. Я менял вот такой ротор на циркуляционном насосе Wilo 25/6: [Wilo KSL 15/6](https://www.ozon.ru/product/rotor-nasosa-wilo-ksl-15-6-na-tsirkulyatsionnyy-nasos-vrashchenie-po-chasovoy-strelke-1710542844/)
 
 ## Инструкция по замене ротора циркуляционного насоса котла
 Люфтило прилично и потом в рев перерасло. Подшипники в самом роторе завальцованные.
