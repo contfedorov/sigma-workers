@@ -188,6 +188,7 @@
 ## Чистовая отделка лестниц
 - [Алексей](https://github.com/contfedorov/sigma-workers/issues/155), +7-923-231-85-63
 - [Алексей Васильевич](https://github.com/contfedorov/sigma-workers/issues/84), +7-913-922-53-67
+- [Анатолий](https://github.com/contfedorov/sigma-workers/issues/176), +7-953-766-25-82
 - ⚠️ [Андрей Фетисов](https://github.com/contfedorov/sigma-workers/issues/83), +7-960-791-69-98 (столярные работы)
 - [Древодар](https://github.com/contfedorov/sigma-workers/issues/63), Александр +7-953-772-22-42
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/114), +7-961-870-74-44
