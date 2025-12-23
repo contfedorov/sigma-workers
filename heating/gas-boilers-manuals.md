@@ -7,6 +7,7 @@
 - [Руководство по эксплуатации](assets/gas-boilers-manuals/instrukcia-ekspluatacia-panther.pdf)
 - [Руководство по установке и техническому обслуживанию](assets/gas-boilers-manuals/rukovodstvo_po_montagu_i_tehnicheskomu_obslugivaniyu_pantera_2015.pdf)
 - [Брошюра "Сервисное обучение"](assets/gas-boilers-manuals/service_training_gepard_panther.pdf) по котлам Гепард, Пантера (версия 19)
+- [Брошюра "Материалы по обучению. Настенные газовые аппараты"](assets/gas-boilers-manuals/training-materials-gepard-panther.pdf) по котлам Гепард, Пантера 
 
 ## Отопительные котлы Protherm Lynx Condens (Протерм Рысь)
 
