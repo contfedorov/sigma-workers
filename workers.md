@@ -132,6 +132,7 @@
 - [Максим](https://github.com/contfedorov/sigma-workers/issues/113), +7-923-128-97-83 (гидроизоляция)
 - [Михаил](https://github.com/contfedorov/sigma-workers/issues/66), +7-951-363-33-33 (крыша, водосточные системы)
 - [Олег](https://github.com/contfedorov/sigma-workers/issues/36), +7-952-903-03-05 (алмазное бурение)
+- [Ольга](https://github.com/contfedorov/sigma-workers/issues/177), [+7-961-225-26-26](tel:+79612252626) (чистка от снега)
 - [Павел](https://github.com/contfedorov/sigma-workers/issues/100), +7-913-925-41-24 (изделия из стекла)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/37), +7-983-510-74-65 (алмазное бурение)
 - [Сергей](https://github.com/contfedorov/sigma-workers/issues/68), +7-953-780-12-09 (кондиционеры)
